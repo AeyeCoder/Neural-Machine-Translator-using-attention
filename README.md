@@ -22,4 +22,4 @@ Preprocess your text data.
 
 Train the model using the provided model.fit() setup.
 
-Use the translate() function to generate translations for new input sentences.
+Use the translate() function to generate translations for new input sentences into Espanol!
